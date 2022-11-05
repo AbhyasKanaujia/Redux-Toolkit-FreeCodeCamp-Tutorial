@@ -133,7 +133,7 @@ const Navbar = () => {
 export default Navbar;
 ```
 
-#### Setup Cart
+## Setup Cart
 
 - cartSlice.js
 
