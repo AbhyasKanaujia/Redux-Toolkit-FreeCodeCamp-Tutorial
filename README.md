@@ -105,11 +105,7 @@ export const store = configureStore({
 });
 ```
 
-#### Redux DevTools
-
-- extension
-
-#### Access store value
+## Access store value
 
 - create components/Navbar.js
 
