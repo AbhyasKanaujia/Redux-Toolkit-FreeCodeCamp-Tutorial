@@ -66,7 +66,7 @@ ReactDOM.render(
 );
 ```
 
-#### Setup Cart Slice
+## Setup Cart Slice
 
 - application feature
 - create features folder/cart
