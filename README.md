@@ -43,7 +43,7 @@ export const store = configureStore({
 });
 ```
 
-#### Setup Provider
+## Setup Provider
 
 - index.js
 
