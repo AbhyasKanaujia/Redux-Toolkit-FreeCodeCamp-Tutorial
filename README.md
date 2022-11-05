@@ -133,17 +133,6 @@ const Navbar = () => {
 export default Navbar;
 ```
 
-#### Hero Icons
-
-- [Hero Icons](https://heroicons.com/)
-
-```css
-nav svg {
-  width: 40px;
-  color: var(--clr-white);
-}
-```
-
 #### Setup Cart
 
 - cartSlice.js
